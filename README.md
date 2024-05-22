@@ -1,4 +1,4 @@
-# **KleinanzeigenFlatBot**
+# **kleinanzeigen-discordbot**
 ### *Noob made Python-Bot, which scrapes offers of Kleinanzeigen.de and notifies you through Discord.*
 -------
 To use it, go to Kleinanzeigen.de and just search what you are interested in, including the filters like apartment size, price range and so on.
