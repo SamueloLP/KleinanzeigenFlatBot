@@ -4,6 +4,8 @@
 To use it, go to Kleinanzeigen.de and just search what you are interested in, including the filters like apartment size, price range and so on.
 When done just copy the link from your browser and use the "!edit" command in Discord with the appropiate link.
 
+main file is "bot.py".
+
 >The Bot checks the assigned channel for already sent offers, so no annoying duplicates.
 >It uses a Text file to save the search-links.
 
